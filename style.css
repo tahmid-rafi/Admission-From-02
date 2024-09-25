@@ -1,0 +1,94 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: italic;
+  ;
+  }
+  
+  #exam{
+      padding: 25px;
+      margin: 50px 50px 50px 50px;
+    box-shadow: 1px 1px 10px gray;
+  
+  }
+  
+  .text{
+    color: rgb(0, 183, 255);
+  }
+  
+  .FROM{
+    background-color:white;
+  }
+  table {
+    width: 100%;
+  }
+  
+  label {
+    display: block;
+    padding-left: 20px;
+  }
+  
+  input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid  #ccc;
+  }
+  
+  button[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #3e8e41;
+    
+  }
+  
+  .address{
+    width: 100%;
+  }
+  
+  .p01 td input{
+      width: 50%;
+  }
+  
+  .required{
+    color: red;
+  }
+
+  form{
+
+    border: none;
+    box-shadow: none;
+    max-width: 100%;
+    padding: 20px;
+    margin-top: -20px;
+  }
+  
+  fieldset table tr td{
+    font-weight:bold;
+    font-size: 16px;
+    color: #000;
+  }
+  
+  fieldset legend {
+    font-weight: bold;
+    color: #000;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  table tr td {
+    font-weight: bold;
+    font-size: 16px;
+    color: #000;
+  }
+
+  table tr td label{
+    font-size: 20px;
+
+  }
